@@ -1,0 +1,5 @@
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin e o link da sua url junto com a pasta do repositorio
+git push -u origin main
